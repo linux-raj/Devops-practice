@@ -1,1 +1,2 @@
-hello raj
+#!/bon/bash
+echo "hello raj"
