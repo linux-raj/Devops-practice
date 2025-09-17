@@ -1,2 +1,3 @@
-#!/bon/bash
+#!/bin/bash
 echo "hello raj"
+echo "GM"
